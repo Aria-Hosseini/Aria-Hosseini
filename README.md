@@ -40,8 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&custom_title=Total%20Repositories&theme=blueberry&hide_border=true" alt="Total Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
