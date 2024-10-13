@@ -21,7 +21,6 @@
   - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
   
 - **Frameworks & Libraries:**
-  - ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
   - ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress)
   
 - **Tools:**
