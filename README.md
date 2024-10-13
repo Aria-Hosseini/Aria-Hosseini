@@ -39,6 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&custom_title=Total%20Repositories&theme=blueberry&hide_border=true" alt="Total Repositories" />
+</p>
+
 ---
 
 ## 🔗 Connect with me
