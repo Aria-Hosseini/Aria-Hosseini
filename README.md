@@ -36,10 +36,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
