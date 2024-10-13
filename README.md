@@ -44,7 +44,7 @@
 ## 🔗 Connect with me
 
 - [Telegram](https://t.me/misty_enigma)
-- [Twitter](https://twitter.com/yourhandle)
+- [Twitter](https://twitter.com/Vihan_AH)
 - [Personal Website](https://animesiege.site)
 
 ---
