@@ -29,15 +29,6 @@
 
 ---
 
-## 🌱 What I'm Learning
-
-Currently, I'm diving deep into:
-- Advanced JavaScript frameworks like React.js
-- Backend development with Node.js
-- Building custom WordPress plugins
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -52,9 +43,9 @@ Currently, I'm diving deep into:
 
 ## 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Telegram](https://t.me/misty_enigma)
 - [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
+- [Personal Website](https://animesiege.site)
 
 ---
 
