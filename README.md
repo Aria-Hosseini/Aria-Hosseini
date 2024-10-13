@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Vihan 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-JavaScript-informational?style=flat-square&logo=javascript&color=yellow" alt="JavaScript Badge" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Passionate about web development and creating user-friendly experiences!
+  stay in silence 
 </p>
 
 ---
@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center">⭐️ From [Your Name](https://github.com/YourGitHubUsername)</p>
+<p align="center">⭐️ From [Vihan☕](https://github.com/Aria-Hosseini)</p>
