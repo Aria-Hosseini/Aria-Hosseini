@@ -20,10 +20,13 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:**
+-**Languages:**
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
   - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
   - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+  - ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=c-sharp)
+
   
 - **Frameworks & Libraries:**
   - ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress)
