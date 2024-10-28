@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  stay in silence 
+  Standing in Silence 
 </p>
 
 ---
