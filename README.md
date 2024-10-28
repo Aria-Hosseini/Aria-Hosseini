@@ -42,11 +42,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aria-Hosseini&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aria-Hosseini&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
