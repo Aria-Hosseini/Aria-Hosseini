@@ -5,7 +5,12 @@
   <img src="https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&color=orange" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&color=blue" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/WordPress-informational?style=flat-square&logo=wordpress&color=blueviolet" alt="WordPress Badge" />
+  <img src="https://img.shields.io/badge/Materialize-informational?style=flat-square&logo=material-design&color=teal" alt="Materialize Badge" />
+  <img src="https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&color=purple" alt="C# Badge" />
+  <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=blue" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Elementor-informational?style=flat-square&logo=elementor&color=salmon" alt="Elementor Badge" />
 </p>
+
 
 <p align="center">
   Standing in Silence 
