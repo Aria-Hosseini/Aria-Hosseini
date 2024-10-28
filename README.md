@@ -49,6 +49,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 
