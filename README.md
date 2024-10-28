@@ -30,7 +30,7 @@
   
 - **Frameworks & Libraries:**
   - ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress)
-  - ![Materialize]<img src="https://img.shields.io/badge/-Materialize-333333?style=flat-square&logo=material-design" alt="Materialize Badge" />
+  - <img src="https://img.shields.io/badge/-Materialize-333333?style=flat-square&logo=material-design" alt="Materialize Badge" />
 - **Tools:**
   - ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
