@@ -59,7 +59,7 @@
 ## 🔗 Connect with me
 
 - [Telegram](https://t.me/misty_enigma)
-- [Email]<a href="mailto:ahsyny356@gmail.com">Email</a>
+- <a href="mailto:ahsyny356@gmail.com">[Email]</a>
 - [Twitter](https://twitter.com/Vihan_AH)
 - [Personal Website](https://animesiege.site)
 
