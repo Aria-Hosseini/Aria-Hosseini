@@ -23,13 +23,14 @@
 
 ## 🛠️ Tech Stack
 
--**Languages:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
-  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  - ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=c-sharp)
-
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48"/>
+</div>
   
 - **Frameworks & Libraries:**
   - ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress)
