@@ -16,11 +16,9 @@
   Standing in Silence 
 </p>
 
-<div style="text-align: center;">
-    <a href="http://www.coffeete.ir/ahsyny356">
-        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-    </a>
-</div>
+<a href="http://www.coffeete.ir/ahsyny356" style="display: block; text-align: center; margin: 0 auto;">
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+</a>
 ---
 
 ## 🛠️ Tech Stack
