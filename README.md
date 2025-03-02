@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vihan 👋</h1>
-
+<div style="display: flex; gap: 10px; justify-content: center; background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-JavaScript-informational?style=flat-square&logo=javascript&color=yellow" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&color=orange" alt="HTML5 Badge" />
@@ -43,9 +43,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elementor/elementor-original.svg" alt="Elementor" width="48" height="48"/>
 </div>
----
+
 
 ## 📈 GitHub Stats
 
@@ -66,10 +65,10 @@
 
 ## 🔗 Connect with me
 
-- [Telegram](https://t.me/misty_enigma)
-- <a href="mailto:ahsyny356@gmail.com">[Email]</a>
-- [Twitter](https://twitter.com/Vihan_AH)
-- [Personal Website](https://animesiege.site)
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="https://twitter.com/[username-تو]"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/></a>
+    <a href="https://linkedin.com/in/[username-تو]"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
+</div>
 
 ---
 <a href="http://www.coffeete.ir/ahsyny356">
