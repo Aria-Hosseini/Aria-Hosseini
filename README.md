@@ -67,7 +67,7 @@
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <a href="https://linkedin.com/in/aria-hosseini"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
-    <a href="https://t.me/misty_enigma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="Telegram" width="32" height="32"/></a>
+    <a href="https://t.me/misty_enigma"><img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="32" height="32"/></a>
     <a href="https://twitter.com/NestedV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/></a>
 </div>
 
