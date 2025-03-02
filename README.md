@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center; align="center"">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
