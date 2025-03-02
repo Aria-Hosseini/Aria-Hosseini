@@ -21,7 +21,7 @@
 </a>
 
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div style="display: flex; gap: 10px; justify-content: center; align="center"">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
@@ -31,16 +31,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48"/>
 </div>
-  
-- **Frameworks & Libraries:**
-  - ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat-square&logo=wordpress)
-  - <img src="https://img.shields.io/badge/-Materialize-333333?style=flat-square&logo=material-design" alt="Materialize Badge" />
-- **Tools:**
-  - ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
-  - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=visual-studio)
-  - ![Elementor](https://img.shields.io/badge/-Elementor-333333?style=flat-square&logo=elementor)
 
+### Frameworks & Libraries
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Materialize" width="48" height="48"/>
+</div>
+
+### Tools
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elementor/elementor-original.svg" alt="Elementor" width="48" height="48"/>
+</div>
 ---
 
 ## 📈 GitHub Stats
