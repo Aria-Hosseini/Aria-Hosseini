@@ -76,8 +76,8 @@
     <a href="https://t.me/misty_enigma">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"/>
     </a>
-    <a href="https://twitter.com/NestedV">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="32" height="32"/>
+    <a href="https://twitter.com/NestedV" style="display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="32" height="32" style="filter: drop-shadow(0px 0px 3px white);"/>
     </a>
 </div>
 
