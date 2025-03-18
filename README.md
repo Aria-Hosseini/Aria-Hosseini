@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aria-Hosseini&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aria-Hosseini&theme=high-contrast" alt="GitHub Activity Graph" />
 </p>
 
 
@@ -69,11 +69,18 @@
 
 ## 🔗 Connect with me
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-    <a href="https://linkedin.com/in/aria-hosseini"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
-    <a href="https://t.me/misty_enigma"><img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="32" height="32"/></a>
-    <a href="https://twitter.com/NestedV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/></a>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+    <a href="https://linkedin.com/in/aria-hosseini">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+    </a>
+    <a href="https://t.me/misty_enigma">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"/>
+    </a>
+    <a href="https://twitter.com/NestedV">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="32" height="32"/>
+    </a>
 </div>
+
 
 ---
 <a href="http://www.coffeete.ir/ahsyny356">
