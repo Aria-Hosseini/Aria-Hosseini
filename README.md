@@ -64,6 +64,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aria-Hosseini&theme=high-contrast" alt="GitHub Activity Graph" />
 </p>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 
 ---
 
