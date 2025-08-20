@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vihan 👋</h1>
+<h1 align="center">Hi there, I'm ARIA 👋</h1>
 <div style="display: flex; gap: 10px; justify-content: center; background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-JavaScript-informational?style=flat-square&logo=javascript&color=yellow" alt="JavaScript Badge" />
@@ -88,4 +88,4 @@
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
 
-<p align="center"> Vihan CODE☕ (https://github.com/Aria-Hosseini)</p>
+<p align="center"> the-Aria CODE☕ (https://github.com/Aria-Hosseini)</p>
