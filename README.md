@@ -1,91 +1,63 @@
-<h1 align="center">Hi there, I'm ARIA 👋</h1>
-<div style="display: flex; gap: 10px; justify-content: center; background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-JavaScript-informational?style=flat-square&logo=javascript&color=yellow" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&color=orange" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&color=blue" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/WordPress-informational?style=flat-square&logo=wordpress&color=blueviolet" alt="WordPress Badge" />
-  <img src="https://img.shields.io/badge/Materialize-informational?style=flat-square&logo=material-design&color=teal" alt="Materialize Badge" />
-  <img src="https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&color=purple" alt="C# Badge" />
-  <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=blue" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Elementor-informational?style=flat-square&logo=elementor&color=salmon" alt="Elementor Badge" />
-</p>
+<h2 align="center">Hi there , I'm Aria</h2>
 
+###
 
-<p align="center">
-  Standing in Silence 
-</p>
+<h3 align="center">but you might know me as the-Aria</h3>
 
-<a href="http://www.coffeete.ir/ahsyny356" style="display: block; text-align: center; margin: 0 auto;">
-    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
+###
 
-
-### 🛠️ Tech Stack
-
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
 </div>
 
+###
 
-### Frameworks & Libraries
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" alt="Materialize" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aria-Hosseini&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aria-Hosseini&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="128" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aria-Hosseini&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="310" alt="activity-graph graph"  />
 </div>
 
+###
 
-### Tools
-<div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="48" height="48"/>
+<p align="center">me on social media💊</p>
+
+###
+
+<div align="center">
+  <a href="https://twitter.com/NestedV" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://linkedin.com/in/aria-hosseini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/misty_enigma" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
+###
 
-## 📈 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aria-Hosseini/Aria-Hosseini/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aria-Hosseini/Aria-Hosseini/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aria-Hosseini/Aria-Hosseini/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aria-Hosseini&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aria-Hosseini&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aria-Hosseini&theme=high-contrast" alt="GitHub Activity Graph" />
-</p>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-
----
-
-## 🔗 Connect with me
-
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <a href="https://linkedin.com/in/aria-hosseini">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
-    </a>
-    <a href="https://t.me/misty_enigma">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="32" height="32"/>
-    </a>
-    <a href="https://twitter.com/NestedV" style="display: inline-block;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="32" height="32" style="filter: drop-shadow(0px 0px 3px white);"/>
-    </a>
-</div>
-
-
----
-<a href="http://www.coffeete.ir/ahsyny356">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
-
-<p align="center"> the-Aria CODE☕ (https://github.com/Aria-Hosseini)</p>
+###
