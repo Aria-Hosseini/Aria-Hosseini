@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">but you might know me as the-Aria</h3>
+<h3 align="center">a simple front-end web developer</h3>
 
 ###
 
