@@ -26,13 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aria-Hosseini&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aria-Hosseini&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="128" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aria-Hosseini&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="310" alt="activity-graph graph"  />
-</div>
 
 ###
 
