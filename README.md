@@ -31,17 +31,17 @@
 
 <p align="center">Contact With Me 💊</p>
 
-###
-
-<div align="center" >
+<div align="center">
   <a href="https://linkedin.com/in/aria-hosseini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" />
   </a>
+  <img width="12" />
   <a href="https://t.me/misty_enigma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="25" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo" />
   </a>
+  <img width="12" />
   <a href="mailto:ariahosseini.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="email logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="email logo" />
   </a>
 </div>
 
