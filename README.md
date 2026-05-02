@@ -33,7 +33,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-derection:row ;gap:25px ; justify-content: center; align-items: center; padding: 10px;">
+<div align="center" >
   <a href="https://linkedin.com/in/aria-hosseini" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo" />
   </a>
