@@ -5,7 +5,6 @@
 
 </div>
 
----
 
 ## // tech stack
 
@@ -33,7 +32,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
----
 
 ## // contact
 
