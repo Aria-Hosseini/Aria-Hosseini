@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- greeting -->
-```
-// hello world
-```
-
 # I'm Aria.
 ### Front-end developer — building for the web
 
@@ -25,10 +20,10 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-757575?style=flat-square&logo=material-design&logoColor=white)
 
 **Styling**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Materialize](https://img.shields.io/badge/Materialize-757575?style=flat-square&logo=material-design&logoColor=white)
 
 **State & Backend**
 ![Zustand](https://img.shields.io/badge/Zustand-6EE7B7?style=flat-square&logoColor=black)
