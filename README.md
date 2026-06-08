@@ -6,7 +6,7 @@
 </div>
 
 
-## // tech stack
+## tech stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,7 +33,7 @@
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
 
-## // contact
+## contact
 
 <div align="center">
 
