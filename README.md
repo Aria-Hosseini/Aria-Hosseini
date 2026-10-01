@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">a Full-Stack Full-Stack Software Engineer of JavaScript</p>
+<p data-importer="text" align="left">a Full-Stack Software Engineer of JavaScript</p>
 
 ###
 
